@@ -1,21 +1,21 @@
-# Welcome to the open-source Nebulas Wiki!
+# Bienvenue sur le Wiki open-source de Nebulas!
 
-Nebulas community is open and everyone can be a contributor and build a decentralized world with us.
+La communauté de Nebulas est ouverte et chacun peut devenir un contributeur et participer, avec nous, à la construction d'un mode décentralisé.
 
-The Nebulas wiki is a collaboration tool for the community to publish various documents in a collaborative manner. Include using guides, developing guides, learning resources, and other useful documents. 
+Le wiki Nebulas est un outil collaboratif permettant à la communauté de publier divers documents de façon collaborative. Ceci comprend les guides d'utilisation, les guides pour le développement, les sources d'apprentissage et d'autres documents utiles. 
 
-The mainnet development part in this Nebulas Wiki bases on [https://github.com/nebulasio/wiki](https://github.com/nebulasio/wiki)("the wiki"). 
+La partie dédiée au développement du réseau principal de ce wiki Nebulas se base sur [https://github.com/nebulasio/wiki](https://github.com/nebulasio/wiki)("the wiki"). 
 
 
-# How to Contribute
+# Comment contribuer
 
-Nebulas aims for a continuously improving ecosystem, which means we need help from the community. We need your contributions! It is not limited exclusively to programming, but also bug reports and translations, spreading the tenets of Nebulas, answering questions, and so on.
+Nebulas vise à mettre en place un ecosystème en amélioration continue, ce qui implique que nous avons besoin de l'aide de la communauté. Nous avons besoin de vos contributions! Cela ne se limite pas uniquement au développement mais comprend également les soumissions de bug, les traductions, la diffusion des principes de Nebulas, les réponses aux questions et ainsi de suite.
 
 [Learn more about how to contribute](https://wiki.nebulas.io/en/latest/how-to-contribute.html)
 
-# Get Started
+# Démarrer
 
-This project was created by [sphinx](http://www.sphinx-doc.org/en/master/) and uploaded to [readthedocs](https://readthedocs.org/) for hosting. Url of online documentation after hosting is: [https://nebdocs.readthedocs.io/en/latest/](https://nebdocs.readthedocs.io/en/latest/).
+Ce projet a été créé avec [sphinx](http://www.sphinx-doc.org/en/master/) et chargé sur [readthedocs](https://readthedocs.org/) pour l'hébergement. L'url de la documentation en ligne après hébergement est: [https://nebdocs.readthedocs.io/en/latest/](https://nebdocs.readthedocs.io/en/latest/).
 
 This project supports documents in the following two formats:
 
